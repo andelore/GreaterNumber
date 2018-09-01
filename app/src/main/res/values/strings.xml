@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Which Is Greater?</string>
+    <string name="instruct">Input Two Numbers</string>
+    <string name="show">SHOW</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="instructions">Instructions</string>
+</resources>
